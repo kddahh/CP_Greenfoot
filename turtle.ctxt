@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=turtle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ turtle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=count
+comment3.target=void\ freeze(int)
+comment4.params=
+comment4.target=turtle()
+numComments=5
